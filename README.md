@@ -5,7 +5,7 @@
 <style>
 body {
 background-color: black;
-color: white;
+color: orange;
 font-family: Arial, sans-serif;
 font-size: 16px;
 margin: 0;
