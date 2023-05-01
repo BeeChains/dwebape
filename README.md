@@ -80,7 +80,7 @@ margin: 0;
 </nav>
 <main class="main">
 <h2>Consciousness</h2>
-<p>At Inner I believes that the key to unlocking our potential lies within our own consciousness. Our products are designed to enhance and expand our awareness, allowing us to reach new levels of understanding and connection with the world around us.</p>
+<p>The Inner I believes that the key to unlocking our potential lies within our own consciousness. Our products are designed to enhance and expand our awareness, allowing us to reach new levels of understanding and connection with the world around us.</p>
 <p>From brainwave entrainment to neurofeedback, our technologies are at the forefront of this exciting field. Join us on this journey of self-discovery and take your first step towards inner transformation.</p>
 </main>
 <footer>
